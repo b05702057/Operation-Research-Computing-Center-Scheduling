@@ -1,2 +1,11 @@
 # Operation-Research-Work-Scheduling
-In this project, we designed an algorithm to optimize the operation to perform works from student submission, utilizing linear programming to consider the number of computers each task needs and the time each subtask takes.
+
+### An operation research project that focuses on algorithm design
+
+## Task
+Think of an algorithm that optimize the resource distribution of a computing center
+
+### Run Locally
+* Run this Command: git clone <https://github.com/b05702057/Operation-Management-Algorithm-Design.git>
+* Download the packages used in the .py file
+* Run this Command: python challenge.py
