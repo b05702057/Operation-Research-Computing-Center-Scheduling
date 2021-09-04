@@ -6,6 +6,6 @@
 Think of an algorithm that optimize the resource distribution of a computing center
 
 ### Run Locally
-* Run this Command: git clone <https://github.com/b05702057/Operation-Management-Algorithm-Design.git>
+* Run this Command: git clone https://github.com/b05702057/Operation-Management-Factory-Scheduling.git
 * Download the packages used in the .py file
 * Run this Command: python challenge.py
